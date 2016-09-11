@@ -1,4 +1,4 @@
-package at.devfly.samples;
+package at.devfly.samples.spark;
 
 public class Application {
 

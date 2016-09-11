@@ -1,7 +1,7 @@
-package at.devfly.samples;
+package at.devfly.samples.spark;
 
-import at.devfly.samples.init.SparkInitializer;
-import at.devfly.samples.settings.SparkSettings;
+import at.devfly.samples.spark.init.SparkInitializer;
+import at.devfly.samples.spark.settings.SparkSettings;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigBeanFactory;
 import com.typesafe.config.ConfigFactory;

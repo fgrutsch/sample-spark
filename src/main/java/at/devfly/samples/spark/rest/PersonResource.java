@@ -1,8 +1,8 @@
-package at.devfly.samples.rest;
+package at.devfly.samples.spark.rest;
 
-import at.devfly.samples.model.Person;
-import at.devfly.samples.rest.response.ResponseEnvelope;
-import at.devfly.samples.rest.response.SuccessResponse;
+import at.devfly.samples.spark.model.Person;
+import at.devfly.samples.spark.rest.response.ResponseEnvelope;
+import at.devfly.samples.spark.rest.response.SuccessResponse;
 import javaslang.collection.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

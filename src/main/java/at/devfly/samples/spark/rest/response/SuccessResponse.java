@@ -1,4 +1,4 @@
-package at.devfly.samples.rest.response;
+package at.devfly.samples.spark.rest.response;
 
 public class SuccessResponse extends ResponseEnvelope {
 

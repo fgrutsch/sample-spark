@@ -1,4 +1,4 @@
-package at.devfly.samples.model;
+package at.devfly.samples.spark.model;
 
 import java.util.Objects;
 import java.util.UUID;

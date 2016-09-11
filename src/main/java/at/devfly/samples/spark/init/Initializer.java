@@ -1,4 +1,4 @@
-package at.devfly.samples.init;
+package at.devfly.samples.spark.init;
 
 public interface Initializer {
 

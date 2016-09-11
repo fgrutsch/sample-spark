@@ -1,4 +1,4 @@
-package at.devfly.samples.settings;
+package at.devfly.samples.spark.settings;
 
 public class SparkSettings {
 

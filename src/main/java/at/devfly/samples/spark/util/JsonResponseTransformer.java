@@ -1,4 +1,4 @@
-package at.devfly.samples.util;
+package at.devfly.samples.spark.util;
 
 import spark.ResponseTransformer;
 

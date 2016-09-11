@@ -1,10 +1,10 @@
-package at.devfly.samples.init;
+package at.devfly.samples.spark.init;
 
-import at.devfly.samples.rest.PersonResource;
-import at.devfly.samples.rest.response.ErrorResponse;
-import at.devfly.samples.settings.SparkSettings;
-import at.devfly.samples.util.JsonResponseTransformer;
-import at.devfly.samples.util.JsonUtil;
+import at.devfly.samples.spark.rest.PersonResource;
+import at.devfly.samples.spark.rest.response.ErrorResponse;
+import at.devfly.samples.spark.settings.SparkSettings;
+import at.devfly.samples.spark.util.JsonUtil;
+import at.devfly.samples.spark.util.JsonResponseTransformer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import spark.Request;
